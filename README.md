@@ -20,7 +20,7 @@ Currently, I am actively seeking full-time roles or internship opportunities whe
 
 I am always open to discussing new opportunities, collaborating on projects, or talking about the latest in tech.
 
-*   **LinkedIn:** [Insert your LinkedIn URL here]
+*   **LinkedIn:** www.linkedin.com/in/mohd-kamil-350374282
 *   **Resume:** [Insert link to your Resume/CV here]
 
 
