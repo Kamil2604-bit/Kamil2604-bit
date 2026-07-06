@@ -1,5 +1,27 @@
-# 💫 About Me:
-I am a Student<br>I am currently pursuing an Integrated M.Tech in CSE<br>I am looking for a job as well as Internship opportunities<br>I am currently skill up my expertise in Java, Python, Cloud Computing and other Emerging Technologies<br>I have a great interest in object-oriented programming<br>I really enjoy  coding<br>
+## Hi there, I'm MohdKamil 👋
+
+**Integrated M.Tech in Computer Science & Engineering**
+
+I am a dedicated Computer Science student with a strong foundation in object-oriented programming and a genuine passion for software development. I enjoy tackling complex problems through clean, efficient code and am continuously expanding my technical expertise to stay ahead of industry trends. 
+
+Currently, I am actively seeking full-time roles or internship opportunities where I can leverage my skills, contribute to innovative projects, and grow within a dynamic engineering team.
+
+---
+
+### 💻 Tech Stack & Focus Areas
+
+*   **Languages:** Java, Python
+*   **Core Competencies:** Object-Oriented Programming (OOP), Data Structures, Algorithm Design
+*   **Current Exploration:** Cloud Computing, Emerging Technologies
+
+---
+
+### 📫 Let's Connect
+
+I am always open to discussing new opportunities, collaborating on projects, or talking about the latest in tech.
+
+*   **LinkedIn:** [Insert your LinkedIn URL here]
+*   **Resume:** [Insert link to your Resume/CV here]
 
 
 ## 🌐 Socials:
